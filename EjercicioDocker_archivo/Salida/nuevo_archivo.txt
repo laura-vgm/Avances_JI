@@ -1,0 +1,4 @@
+Contenido del archivo original:
+
+Nuevo_sujeto
+Archivo modificado
